@@ -1,2 +1,1 @@
-### Small Projects and Different Framework/Library/Languages
-Practice
+# Small Projects and Different Framework/Library/Languages Practice
