@@ -49,7 +49,6 @@ export class AuthService{
         catch(err){
             return err;
         }
-        return null;
     }
 
 }
